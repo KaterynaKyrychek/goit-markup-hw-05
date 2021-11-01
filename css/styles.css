@@ -214,6 +214,7 @@ body {
     visibility: visible;
     transition: opacity var(--transition-duration) var(--transition-timing-function), visibility var(--transition-duration) var(--transition-timing-function);
     background: rgba(0, 0, 0, 0.2);
+    z-index: 1;
     /* display: flex; */
     /* justify-content: center; */
     /* margin: 0; */
